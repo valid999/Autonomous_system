@@ -10,6 +10,11 @@
 The article provides and depth overview of the system vision , development and the applied deep learning algorithm inside the self-driving car system , while there is a lot of challenges but in this project I will try my best to prove if we negate the some expensive sensor of the car we can get a huge result from the system vision , also I placed several sensor to show we can take the experiment with sensor and then without sensor the idea will start by showing how if we placed 6+ camera in the car can observe the environment and take 33 images per second can give us a huge result. Second will see the different understandable from the normal system and the vision system and how we can avoid the cost of the cars if we integrated this model in different area can- perform good .
 Overall , this paper provides readers with a thorough understanding of current state-of- art technology related to self driving car ,fabricating, and deploying the model inside the controller systems specifically designed for  self driving car system . it is insightful to catch the huge development of the deep learning and  apply it in the real world , These machines offer over traditional methods while acknowledging challenges faced by researchers working in the field  is how to make the deployment so efficient  over traditional methods.
 
+
+# Why do we need to neglact the Lidar 
+We do need to eliminate the LIDAR because of the misinterpretations
+![WhatsApp Image 2024-06-01 at 13 55 12_12c8eb26](https://github.com/valid999/Autonomous_system/assets/95305177/c4ad3718-b434-416a-8ce5-2a570c8a8ce4)
+
 # 1. Data collection 
 Data Collection: The system captures real-time data from cameras mounted on the vehicle maybe the number of these cameras will be 8 camera. These cameras provide a continuous stream of images representing the vehicle's environment.
 Data Preprocessing: The captured images are preprocessed to enhance features and reduce noise. Techniques such as normalization, resizing, and augmentation (flipping, rotation, etc.) are applied to improve the robustness of the CNN model , the main technique we are using right now is a technique related to the  PyTorch library will done everything behind the seen in terms of the resizing and shaping of the data we need to dataset with annotation.
