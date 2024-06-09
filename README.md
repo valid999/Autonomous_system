@@ -32,7 +32,8 @@ Environmental Impact : Autonomous vehicles can contribute to reduced emissions b
 
 # 2. Build & Traine the neural nedtwork
 
-![image](https://github.com/valid999/Autonomous_system/assets/95305177/ec9e7a30-97ca-49eb-982d-399063570213)
+![image](https://github.com/valid999/Autonomous_system/assets/95305177/c7271fde-27b8-4b5b-aa2b-a14617e9a3ae)
+
 
 
 
