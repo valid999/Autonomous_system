@@ -5,5 +5,5 @@ Overall , this paper provides readers with a thorough understanding of current s
 
 # 1. Object detection using the neural network(CNN).
 
-
 https://youtu.be/1xrBWL5Kkog
+
