@@ -30,8 +30,18 @@ Environmental Impact : Autonomous vehicles can contribute to reduced emissions b
 
 
 
+# 2. Build & Traine the neural nedtwork
 
-# 2. Object detection using the neural network(CNN).
+![image](https://github.com/valid999/Autonomous_system/assets/95305177/ec9e7a30-97ca-49eb-982d-399063570213)
+
+
+
+
+# 3. Object detection using the neural network(CNN).
 
 https://youtu.be/1xrBWL5Kkog
 
+# 4. Lane detection
+
+
+![image](https://github.com/valid999/Autonomous_system/assets/95305177/a610d3ba-ecc8-4032-a8a5-75a4f0b75844)
