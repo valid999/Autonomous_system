@@ -56,5 +56,9 @@ https://youtu.be/1xrBWL5Kkog
 ![image](https://github.com/valid999/Autonomous_system/assets/95305177/a610d3ba-ecc8-4032-a8a5-75a4f0b75844)
 
 
-# 4. CARLA SIMULATION
+# 5. CARLA SIMULATION
 
+
+# 6. Object tracking 
+
+Object tracking is an application of deep learning where the program takes an initial set of object detections develops a unique identification for each of the initial detections and then tracks the detected objects as they move around frames in a video.
