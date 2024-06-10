@@ -15,6 +15,12 @@ Overall , this paper provides readers with a thorough understanding of current s
 We do need to eliminate the LIDAR because of the misinterpretations
 ![WhatsApp Image 2024-06-01 at 13 55 12_12c8eb26](https://github.com/valid999/Autonomous_system/assets/95305177/c4ad3718-b434-416a-8ce5-2a570c8a8ce4)
 
+
+# Data annotation with Labelimg 
+![Label_image](https://github.com/valid999/Autonomous_system/assets/95305177/f505aa1c-be59-461f-862e-98b5b7810230)
+![Test_annotation1](https://github.com/valid999/Autonomous_system/assets/95305177/bc081399-1f70-485f-bdf7-331471252e9d)
+![Test_annotation2](https://github.com/valid999/Autonomous_system/assets/95305177/8cfaf451-0ba2-4ffc-87d0-f7282d82bb93)
+
 # 1. Data collection 
 Data Collection: The system captures real-time data from cameras mounted on the vehicle maybe the number of these cameras will be 8 camera. These cameras provide a continuous stream of images representing the vehicle's environment.
 Data Preprocessing: The captured images are preprocessed to enhance features and reduce noise. Techniques such as normalization, resizing, and augmentation (flipping, rotation, etc.) are applied to improve the robustness of the CNN model , the main technique we are using right now is a technique related to the  PyTorch library will done everything behind the seen in terms of the resizing and shaping of the data we need to dataset with annotation.
