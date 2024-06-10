@@ -42,7 +42,13 @@ Environmental Impact : Autonomous vehicles can contribute to reduced emissions b
 
 https://youtu.be/1xrBWL5Kkog
 
+
+
 # 4. Lane detection
 
 
 ![image](https://github.com/valid999/Autonomous_system/assets/95305177/a610d3ba-ecc8-4032-a8a5-75a4f0b75844)
+
+
+# 4. CARLA SIMULATION
+
