@@ -10,6 +10,11 @@
 The article provides and depth overview of the system vision , development and the applied deep learning algorithm inside the self-driving car system , while there is a lot of challenges but in this project I will try my best to prove if we negate the some expensive sensor of the car we can get a huge result from the system vision , also I placed several sensor to show we can take the experiment with sensor and then without sensor the idea will start by showing how if we placed 6+ camera in the car can observe the environment and take 33 images per second can give us a huge result. Second will see the different understandable from the normal system and the vision system and how we can avoid the cost of the cars if we integrated this model in different area can- perform good .
 Overall , this paper provides readers with a thorough understanding of current state-of- art technology related to self driving car ,fabricating, and deploying the model inside the controller systems specifically designed for  self driving car system . it is insightful to catch the huge development of the deep learning and  apply it in the real world , These machines offer over traditional methods while acknowledging challenges faced by researchers working in the field  is how to make the deployment so efficient  over traditional methods.
 
+![Robot-transformed](https://github.com/valid999/Autonomous_system/assets/95305177/1d955571-53d0-4b10-a281-8dc1123d3578)
+
+![Robot](https://github.com/valid999/Autonomous_system/assets/95305177/9445393f-6caf-4d71-88e1-3c5cad13b601)
+
+![Label_image](https://github.com/valid999/Autonomous_system/assets/95305177/44cccae6-72ed-42c0-bd00-eead959315f3)
 
 # Why do we need to neglact the Lidar 
 We do need to eliminate the LIDAR because of the misinterpretations
