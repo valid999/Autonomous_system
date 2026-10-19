@@ -537,6 +537,8 @@ This project brings together practical experimentation in robotics, computer vis
 
 ![Label_image](https://github.com/valid999/Autonomous_system/assets/95305177/44cccae6-72ed-42c0-bd00-eead959315f3)
 
+
+## Additional information for Trial and Error
 # Why do we need to neglact the Lidar 
 We do need to eliminate the LIDAR because of the misinterpretations
 ![WhatsApp Image 2024-06-01 at 13 55 12_12c8eb26](https://github.com/valid999/Autonomous_system/assets/95305177/c4ad3718-b434-416a-8ce5-2a570c8a8ce4)
