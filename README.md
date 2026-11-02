@@ -1,5 +1,7 @@
 # The prototype :
 
+
+
 ![WhatsApp Image 2024-05-30 at 23 30 02_4a0d77e8](https://github.com/valid999/Autonomous_system/assets/95305177/07ba266a-dae5-45d8-b397-d4e1ede445cb)
 
 ![WhatsApp Image 2024-05-27 at 19 52 36_a8551c9d](https://github.com/valid999/Autonomous_system/assets/95305177/dd9c3676-2360-4928-a1f5-1641e23a60a8)
